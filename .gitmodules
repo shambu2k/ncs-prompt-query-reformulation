@@ -1,0 +1,6 @@
+[submodule "CodeXGLUE"]
+	path = CodeXGLUE
+	url = https://github.com/microsoft/CodeXGLUE.git
+[submodule "PromptBreeder"]
+	path = PromptBreeder
+	url = https://github.com/vaughanlove/PromptBreeder.git
