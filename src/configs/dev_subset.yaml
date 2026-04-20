@@ -1,0 +1,7 @@
+{
+  "split": "valid",
+  "condition": "adv",
+  "size": 300,
+  "seed": 42,
+  "frozen": true
+}

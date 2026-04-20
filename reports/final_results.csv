@@ -1,0 +1,7 @@
+split,method_key,method,clean_mrr,adv_mrr,robustness_drop,relative_drop,clean_run_name,adv_run_name
+valid,raw,Raw Query BM25,0.1654,0.0518,0.1136,0.6868,raw_valid_clean,raw_valid_adv
+valid,fixed,Fixed Prompt Rewrite,0.1878,0.0474,0.1404,0.7476,rewritten_valid_clean,rewritten_valid_adv
+valid,evolved,Evolved Prompt Rewrite,0.1878,0.0474,0.1404,0.7476,evolved_bm25_valid_clean,evolved_bm25_valid_adv
+test,raw,Raw Query BM25,0.1338,0.0421,0.0917,0.6854,raw_test_clean,raw_test_adv
+test,fixed,Fixed Prompt Rewrite,0.1537,0.0382,0.1155,0.7515,rewritten_test_clean,rewritten_test_adv
+test,evolved,Evolved Prompt Rewrite,0.1537,0.0382,0.1155,0.7515,evolved_bm25_test_clean,evolved_bm25_test_adv

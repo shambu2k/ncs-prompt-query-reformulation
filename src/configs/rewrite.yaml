@@ -1,0 +1,9 @@
+{
+  "provider": "heuristic",
+  "model": "heuristic-fixed-prompt-v1",
+  "temperature": 0,
+  "max_tokens": 64,
+  "overwrite": false,
+  "num_workers": 16,
+  "batch_size": 12
+}

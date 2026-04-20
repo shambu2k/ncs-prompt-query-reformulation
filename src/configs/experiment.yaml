@@ -1,0 +1,6 @@
+{
+  "raw_baseline_label": "Raw Query BM25",
+  "fixed_prompt_label": "Fixed Prompt Rewrite",
+  "default_split": "valid",
+  "conditions": ["clean", "adv"]
+}

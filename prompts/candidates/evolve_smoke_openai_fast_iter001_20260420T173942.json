@@ -1,0 +1,10 @@
+{
+  "generation_method": "openai:gpt-4o-mini",
+  "generator_model": "gpt-4o-mini",
+  "iteration": 1,
+  "parent_prompt_id": "evolve_smoke_openai_fast_seed",
+  "prompt_id": "evolve_smoke_openai_fast_iter001_20260420T173942",
+  "prompt_text": "---\nYou rewrite software code-search queries for retrieval.\n\nTransform the input query into a clear, concise natural language description of the function's purpose and behavior. Prioritize observable actions and outcomes over specific identifiers. Eliminate implementation details that would be absent from well-written code comments. Utilize terminology that frequently occurs in code documentation and docstrings. Ensure brevity and clarity. Do not introduce new information or provide explanations. Do not generate code. Return only one rewritten search query.\n---",
+  "status": "generated",
+  "timestamp": "2026-04-20T17:39:42.240136Z"
+}

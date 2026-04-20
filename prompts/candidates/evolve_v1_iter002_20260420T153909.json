@@ -1,0 +1,10 @@
+{
+  "generation_method": "openai:gpt-4o-mini",
+  "generator_model": "gpt-4o-mini",
+  "iteration": 2,
+  "parent_prompt_id": "evolve_v1_seed",
+  "prompt_id": "evolve_v1_iter002_20260420T153909",
+  "prompt_text": "---\nYou rewrite software code-search queries for improved retrieval.\n\nRevise the input query to clearly articulate the function's behavior and purpose using concise natural language. Emphasize the observable actions and intended outcomes rather than specific identifiers. Eliminate any implementation details that would not be found in well-written code comments. Utilize terminology that is typical in code documentation and docstrings. Keep the response succinct. Avoid introducing new information. Do not provide explanations or generate code. Return only one rewritten search query.\n---",
+  "status": "generated",
+  "timestamp": "2026-04-20T15:39:09.376694Z"
+}
